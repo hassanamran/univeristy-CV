@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="header">
+        <h1>Muhammad Ahmad Hassan</h1>
+        <img src="images/me.jpg" alt="My photo" class="avatar">
+        
+   </div>
+    <div id="past" class="stage">
+        <h3 class="year">2020-2025</h3>
+        <div class="fact">
+            <p>was the basketball team captain in 2025 at my college</p>
+            <p>Learnt the basics in different subjects. Learnt how to write pseudocode and got introduced to programming</p>
+        
+        </div>
+    </div>
+
+    <div id="present" class="stage">
+        <h3 class="year">2026-current</h3>
+        <div class="fact">
+            <p>got admission in fast uni</p>
+            <p>member of cyberspace legion society</p>
+            <p>member of ops team at fast computing society</p>
+        </div>
+        
+    </div>
+    
+     <div id="future" class="stage">
+        <h3 class="goal">2030-onwards</h3>
+        <div class="fact">
+          <p>go for a masters abroad</p>
+          <p>participate in more events</p>
+          <p>make better projects in cybersecurity</p>
+        </div>
+        
+    </div>
+   
+</body>
+</html>

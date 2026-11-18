@@ -1,0 +1,30 @@
+#header {
+text-align: center;
+border: 2px solid sienna;
+}
+       
+#past {
+margin-left: 0;
+}
+        
+#present {
+margin-left: 40px;
+}
+        
+#future {
+margin-left: 80px;
+        
+}
+        
+body {
+background-color: linen;
+            
+}
+        
+.stage {
+border: 2px solid sienna;
+}
+        
+h1, h2, h3 {
+color: maroon;
+}

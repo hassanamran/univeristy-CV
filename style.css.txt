@@ -28,3 +28,9 @@ border: 2px solid sienna;
 h1, h2, h3 {
 color: maroon;
 }
+
+.avatar {
+width: 120px;
+height: 120px;
+border-radius: 50%; /* makes a square photo a circle */
+}
